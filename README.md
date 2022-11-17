@@ -59,4 +59,4 @@ Uma plataforma Web e também Mobile, onde as pessoas podem criar bolões dos jog
 <br>
 [Repositório da Web](https://github.com/rafacelos/NLW-Copa-Web)
 
-##### Qualquer feedback é bem vindo ! Acesse meu [linkedin](www.linkedin.com/in/rafaeloliveiradev).
+##### Qualquer feedback é bem vindo ! Acesse meu <a href="https://www.linkedin.com/in/rafaeloliveiradev">linkedin</a>
